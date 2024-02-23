@@ -1,0 +1,1 @@
+It takes a user's name and age and prints them accordingly
